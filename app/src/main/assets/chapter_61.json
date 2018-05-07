@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Christmas is just around the corner.",
+      "크리스마스가 코 앞으로 다가왔어요."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I can't believe it's already the end of the year." , "난 믿을 수가 없어 벌써 연말이라니"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["I deeply reflect on myself at this time of the year.","나 깊이 자신을 반성해 일 년 중 이맘때면."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Come on. you're on the right track.", "이봐. 넌 제대로 하고있다."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["From now on, I'll try not to live in the past.", "지금부턴, 난 하지 않도록 할꺼야 과거에 연연하며 살다."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Ok. but you should take responsibility for your past.", "그래. 하지만 너 책임을 져야해 너의 과거에."]}
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Let's make a toast to your success. Bottoms up!",
+      "건배하자 너의 성공을 위해. 원 샷!"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I must not drink today. I'm on a medication."
+  , "나 절대 안되 술마시면 오늘. 나 약을 복용중이야."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Come on. I'm not falling for that trick."
+  ,"왜 이래. 나는 안속아 그 속임수에."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I have a bad cold and ache all over."
+  , "나 나쁜 감기에 걸렸어 그리고 온몸이 쑤셔."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Why don't you take a day off and relax?"
+  , "왜 너는 하지 않지 하루 쉬다 그리고 휴식을?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'd love to, but I'm tied up at work."
+  , "나도 그러고 싶은데, 하지만 나 바뻐 일터에서."]
+  }
+}

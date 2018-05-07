@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["You'll never guess what happened last night.",
+      "너는 상상도 못할껄 뭐가 일어났는지 어젯밤(지난밤)"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["What? She stood you up or what."
+  , "뭔데? 그녀가 널 바람맞게라도 한거야?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Exactly. Don't you think she plays hard to get?"
+  ,"맞아. 너 그렇게 생각하지 않니 그녀가 너무 튕긴다고?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm sure she really likes to play the field."
+  , "난 확신해 그녀는 정말 좋아해 여러사람과 사귀는걸."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["According to rumors, she has feeling for you."
+  , "소문에 따르면, 그녀가 너에게 마음이 있다고 하던데."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I don't buy it. I have a lot on my mind."
+  , "믿기질 않아. 나 머리가 복잡해진다."]
+  }
+}

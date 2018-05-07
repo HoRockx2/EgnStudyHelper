@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Your Skirt is way too short.",
+      "너 치마가 너무 짧아."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["What's wrong with it?"
+  , "뭐 어때서요?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["You are not wearing that to party."
+  ,"너 그거입고 파티에 못가."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Mon! You don't have an eye of fashion."
+  , "엄마! 당신은 안목이 없어요 패션에 대해."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["You're impossible. You look good in everything."
+  , "못 말리겠네. 너에게 잘 어울려 모든게."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Please stop. You never take my side at all."
+  , "제발 그만하세요. 당신은 전혀 아니잖아 내편이 전혀."]
+  }
+}

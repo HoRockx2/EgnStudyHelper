@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I haven't seen you around for a while.",
+      "나는 요즘 너를 못봤다. 한동안"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'm between jobs. So i've been lying low." , "나는 구직중이야. 그래서 나는 잠수타고 있어오고 있어."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Don't work too hard and take your time.","하지마 일 너무 힘들게, 쉬엄쉬엄해 (천천히해)"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["It's like beating my head against the well.", "이건 인것같아 맨땅에 헤딩하다"]},
+  "5":{"speaker" : "A", "sentence" :
+  ["I think you're kind of a late bloomer.", "내 생각엔 너는 종료는 사람이야 대기만성형"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Thanks, I'm so flattered.", "고마워, 너무 과찬인데."]}
+}

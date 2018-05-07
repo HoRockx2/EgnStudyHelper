@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Why did you hurt her feeling?",
+      "왜 너는 속상하게 했어 그녀의 마음을?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I didn't mean to."
+  , "나는 일부러 그런게 아니야."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Watch your language and Don't swear ever again."
+  ,"말 조심해 그리고 욕하지마 다시는."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm sorry. I'll keep that in mind."
+  , "미안, 그걸 명심할께."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["How many times do i have to tell you the same thing?"
+  , "대체 몇번을 내가 말해야 하니 네게 같은걸."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I don't know what to say."
+  , "내가 뭐라고 할 말이 없다."]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I woke up with a stiff neck. I'm not feeling like myself.",
+      "나 자고나니 목이 뻐근하다. 나는 내 몸이 아닌거 같아."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["You drank till you dropped last night."
+  , "너 실컷 마셨구나 어젯밤"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["To top it off, I think i left my phone in the taxi."
+  ,"설상가상으로, 내 생각에 나 남겼어 내 폰을 택시에"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["You remind me of a friend of mind from university."
+  , "너 내게 대학교때 내 친구를 생각나게해 "]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["He must be a really party animal."
+  , "그도 이었나 보네 정말 파티광"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["He blacked out and even threw up sometime."
+  , "그는 필름도 끊기고 심지어 토하다 가끔."]
+  }
+}

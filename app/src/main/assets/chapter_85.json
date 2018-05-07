@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Do you have any big plans this Saturday.",
+      "너 어떤 특별한 계획 있어요 토요일에?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'm afraid I have some work to catch up on."
+  , "안타깝게도 나 해야되 몇몇 일을 만회하기 위해 (밀린일을 좀 해야 해)"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["You look really stressed out. What happen?"
+  ,"너 정말 스트레스 받아 보여. 무슨 일이야?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Tha last thing I wanna do is fill(=sit) in for someone."
+  , "난 절대 하고 싶지 않아 대신하다 누군가를."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Stick it out and don't bite off more than you can chew."
+  , "조금만 참아 그리고 너가 감당할 수 있을 정도만 해. (너의 분에 넘치는 일을 하지마)"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I can't stand the sight of him. Let's take a walk."
+  , "나 꼴도 보기 싫다 그를. 산책 좀 하자."]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I heard your wife was hospitalized last night.",
+      "나 들었어 네 부인이 입원했다면서 어젯밤에"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["She was in a coma when she was taken to the ER."
+  , "그녀는 혼수 상태였어 그 때 그녀가 응급실에 실려갈 때"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I hope she'll be released from the hospital soon."
+  ,"나 기원할께 그녀가 퇴원하도록 금방"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["After the surgery, she is in stable condition now."
+  , "수술 이후에, 그녀는 안정된 상태이다 지금."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["What did the doctor say? Is she all right?"
+  , "의사는 뭐라고 해? 그녀는 괜찮대?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["He said she should bring her cholesterol level down."
+  , "그가 말하길 그녀는 낮춰야 한데 그녀의 콜레스테롤 레벨을."]
+  }
+}

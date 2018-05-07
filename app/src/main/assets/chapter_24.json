@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Are you sure This is what you want to do?",
+      "너 확실해 이게 너가 하고싶던거야?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Don't you get it? I have made that clear."
+  , "너 이해 못했니? 나는 분명히 해왔어."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I hate to say this, but you're dead wrong."
+  ,"나 하기 싫어 이걸 말하기 하지만 넌 완전 틀렸어."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["If you don't trust me, count me out."
+  , "만약 너가 날 못 믿는다면 날 제외시켜줘."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Oh, No, Here we go again."
+  , "오, 이런, 또 시작이네."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["What i want you to do is take some action."
+  , "내가 니가 해줬으면 하는 것은 무슨 조치라도 취하라는 거야."]
+  }
+}

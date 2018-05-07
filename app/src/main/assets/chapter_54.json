@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["How old do i look?",
+      "제가 몇살처럼 보이세요?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Well, I thought you're in your mid-30s."
+  , "글쎄요, 나는 생각했다 너는 30대 중반이라고."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Actually, I'm pushing 40."
+  ,"사실, 난 곧 40대가 됩니다."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Really? You look young for your age."
+  , "정말? 너는 어려보여 너의 나이에 비해."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Thanks. I get that a lot. What are you up for?"
+  , "고마워. 난 그런 말 많이 듣는다. 너는 뭐 먹고 싶어?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Anything. I'm not picky about food."
+  , "아무거나. 나는 까다롭지 않아 음식에."]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Would you mind backing up a little, please?",
+      "해 주실래요 조금 후진을, 부탁합니다?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["What's the matter? I always park here."
+  , "뭐가 문제죠? 나 항상 주차해 여기에"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["This is a tow-away zone. You can get a parking ticket."
+  ,"여기는 견인 지역이에요. 너 할 수 있어 주차 위반 딱지를 받다"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Don't make a big deal out of nothing."
+  , "호들갑 떨지 마세요 별거 아닌걸로"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["As far as I know, there's a parking lot behind the building."
+  , "내가 알기로는 있다 주차장이 뒤에 건물"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["That's news to me. Thanks for the tip."
+  , "내겐 금시초문이네요. 알려 줘서 고마워요."]
+  }
+}

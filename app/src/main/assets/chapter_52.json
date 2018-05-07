@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["The ipad5 is coming out next month.",
+      "아이패드 5가 출시된대 다음달에."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Wow. I have to wait in line from early morning."
+  , "와우. 난 해야겠네 줄 서서 기다려야 이른 아침부터."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["since when did you get interesting in the latest gadgets?"
+  ,"언제부터 너는 관심을 가졌니 최신 기기에?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I keep up with treads. I wasn't born yesterday."
+  , "난 따라가고 있어 유행을. 나도 알건 알어."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["on offense, but you barely know how to use smart phones."
+  , "악의는 없지만, 넌 거의 모르잖아 어떻게 쓰는지 스마트폰을."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Knock it off. You don't have to rub it in."
+  , "그만 좀 해. 넌 그러면 안돼 아픈데를 건드리면."]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Can you take out the garbage on your way out?",
+      "할 수 있니 스레기를 버리는걸 나가는 길에?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["No problem. I'll get it."
+  , "문제 없어요. 제가 버릴께요."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["What are you planning to do after school?"
+  ,"무슨 계획이니 할 방과후에?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm hanging out with friends at the pizza place."
+  , "나는 놀꺼에요 친구와 피자 가게에서."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["My car broke down. I need to get it fixed by tomorrow."
+  , "내 차가 고장났어. 나 필요해 이걸 고쳐야 내일까지."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'll see what i can do. but don't get your hopes up."
+  , "내가 알아볼께요. 하지만 너무 기대하지 마세요."]
+  }
+}

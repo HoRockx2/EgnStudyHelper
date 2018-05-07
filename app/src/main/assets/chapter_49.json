@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Look at this. I've got goose bumps all over.",
+      "이것봐. 나 소름 돋았어 온몸에."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["It's getting pretty chilly in the morning."
+  , "날씨가 점점 쌀쌀해지고 있어 아침에."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I'm freezing to death. You should bundle up when going out."
+  ,"난 추워 죽겠어. 넌 해야돼 옷을 껴입어야 해 나갈 때."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I had an accident dozing off behind the wheel."
+  , "나 사고가 났었어 졸음운전하다가 (깜빡 졸다 운전중에)"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Oh. no. were you hurt?"
+  , "오. 안돼. 너 다쳤니?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Fortunately, it was just a fender-bender."
+  , "다행히, 단지 경미한 접촉사고였어."]
+  }
+}

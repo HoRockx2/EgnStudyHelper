@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["How long will It take to get the shopping done.",
+      "얼마나 오래 걸려 쇼핑이 끝나려면?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'm almost done. It'll take just a second."
+  , "나는 거의 다 됐어. 그건 단지 얼마 안걸릴꺼야."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I've had it. My back is killing me."
+  ,"난 질렸어. 등 때문에 아파 죽겠어."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["You'd better go get some rest in the lounge."
+  , "너 가는게 좋겠다 좀 쉬러 라운지에."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Two hours have passed in the blink of an eye."
+  , "두 시간이 지났어 눈 깜빡할 세에."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Cut me some slack, please."
+  , "내 사정 좀 봐줘 제발."]
+  }
+}

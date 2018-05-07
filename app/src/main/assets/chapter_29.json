@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I can't remember a thing about last night.",
+      "나 기억이 안나. 지난밤에 대해."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Me, neither. I'm in the mood for a beer tonight."
+  , "나도 그래. 나 하고싶은 기분이야 맥주한잔 오늘저녁에."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Again? I'm suffering from a terrible hangover."
+  ,"또? 나 고생하고 있어 끔찍한 숙취로."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Let's go get hangover soup before hitting the bars."
+  , "가자 해장국 먹으러 술마시러 가기전에."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Perfect. Let't get wasted tonight."
+  , "완벽해. 만취해보자 오늘밤."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'll get the bill this time."
+  , "내가 살께 이번에."]
+  }
+}

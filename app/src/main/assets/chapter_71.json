@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I think i have a crush on Kate.",
+      "나 인거같아 나 반했어 케이트에게"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Rumor has it she's taken. but, why not give it a try?" , "~라는 소문이 있어 그녀는 임자가 있어. 하지만 시도하지 않을 이유가 없다(잖아?)"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["I can't work up the courage. I'm not much of a talker.","나 할수 없어 용기를 내다. 나는 잘 못해 말하는걸."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Don't be so hard on yourself. you're a nice guy.", "하지마 너무 심하게 대하지 스스로. 너 나이스한 남자야."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Just between you and me, I'll try to pick her up", "우리끼리 비밀인데, 나 시도할꺼야 그녀를 꼬시기."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["That's the spirit! I'll keep my fingers crossed.", "바로 그 정신이야! 난 행운을 빌께."]}
+}

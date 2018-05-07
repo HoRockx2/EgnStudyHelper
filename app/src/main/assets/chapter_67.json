@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I ran into my ex-girl friend on the street yesterday.",
+      "나 우연히 만났어 내 이전 여자친구를 길에서."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Wow. Don't tell me you chickened out." , "와우. 설마 아니지 너 겁먹고 도망치지?"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["I almost sprained my ankle while stepped backwards.","나 거의 발목을 삐끗할 뻔했어 도중에 뒷걸음 치다."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["You should take your mind off her.", "너 해야되 너의 마음에서 그녀를 떨쳐버려야."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Yeah. I think it's time to pull myself together.", "응. 내 생각에 할 시간이야 내 마음을 잡을(정신차릴)"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Don't worry. I think you can manage.", "걱정마. 너는 잘 할 수 있을 꺼야."]}
+}

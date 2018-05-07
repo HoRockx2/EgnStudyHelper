@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Wake up, sleepyhead! You sleep in every day.",
+      "일어나 잠꾸러기야! 너 늦잠자 매일."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I tossed and turned all night. I couldn't sleep a wink."
+  , "난 뒤척였어 밤새. 난 한숨도 못잤어."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I'm wondering if you make it on time for school."
+  ,"나는 할 수 있을지 모르겠다 너가 할 수 있는지 제 시간에 맞춰갈지 학교에."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm in the middle of washing my hear already."
+  , "나는 하는 중이다 씻다 내 머리를 이미."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["You're the black sheep of our family."
+  , "너는 골칫덩어리야 우리 가족의."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Come on. I just forgot to set the alarm."
+  , "왜 그래요. 나 단지 깜빡했어 알람을 맞추는 걸."]
+  }
+}

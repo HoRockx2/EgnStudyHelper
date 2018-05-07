@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Sorry for disturbing you in your day off.",
+      "미안합니다. 방해해서 너를 쉬는날에."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Please make it short. I can't talk long." , "제발 짧게 해주세요. 나 통화 길게 못해요."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["I'm calling to ask you for your advice. You have a minute?","나느 ㄴ전화했다 당신에게 조언을 구하기 위해. 시간 좀 있어요?"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["It's a bad time. Actually, I have company now.", "곤란한 시간이다. 사실, 나 손님이 있다 지금."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Ok. Please let me know if you can free up some time.", "알았어요. 제발 제게 알려주세요 만약 당신이 할 수 있다면 시간을 좀 내다."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["How about if we meet in about an hour?", "하는게 어때요 우리 만나자 약 한시간 후에?"]}
+}

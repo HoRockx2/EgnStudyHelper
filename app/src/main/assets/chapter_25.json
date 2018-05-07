@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I owe you an apology. I forget your birthday.",
+      "내가 너에게 사과할게 있어. 나 잊었었어 니 생일을."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Come on. Let it go."
+  , "뭘 그런걸 다. 신경 쓰지마."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I promise it'll never happen again."
+  ,"내가 약속할께. 다시는 이런일 없을꺼야."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["No problem. It could happen to anyone."
+  , "괜찮아. 이건 그럴 수 있어 누구에게나 일어날 수."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I want to make up for missing it."
+  , "난 하고싶어 보상해 잊은것에 대해."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Forget it. I don't want to twist your arm."
+  , "(사례, 사과에 대해) 이제 괜찮아. 나 원치 않아 엎드려 절 받기."]
+  }
+}

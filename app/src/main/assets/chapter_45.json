@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["What brings you here?",
+      "여긴 어쩐 일이세요?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I was in the neighborhood and came by."
+  , "나는 근처에 왔다가 그리고 잠시 들렀어요."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Great. I'm so glad you came here."
+  ,"잘했어요. 나는 기뻐요 너가 방문해줘서."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm starving. Have you had lunch?"
+  , "나는 몹시 배고파. 점심 먹었어요?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["No. Let's get grep a bite to eat."
+  , "아뇨. 갑시다 간단히 뭐 좀 먹으러."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Do you have a favorite hangout around here?"
+  , "너는 단골집이 있으세요 근처에?"]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Hey, I'm back. What did i miss?",
+      "이봐, 나 돌아왔어. 무슨 얘기 했어?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Guess what i just heard? Take a guess." , "맞춰봐 내가 들은게 뭔지. 대충 맞춰봐"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["What do you take me for? Give it to me straight.","날 뭘로보는거야? 솔직히 말해."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["They got carried away and kissed each other.", "그들이 흥분해서 그래서 키스했대"]},
+  "5":{"speaker" : "A", "sentence" :
+  ["I knew it! They were drinking a lot.", "그럴 줄 알았어! 그들은 술을 마셨다 많이."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["I think they're made for each other.", "내 생각에 그들은 천생연분인 것 같아."]}
+}

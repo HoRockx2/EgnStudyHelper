@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Can you help me with my math homework?",
+      "너는 나를 도와줄 수 있니 내 수학 숙제를?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Sorry. I can't. My hands are full."
+  , "미안. 난 못해. 바뻐."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Math tests are not what they used to be."
+  ,"수학 시험들이 예전 같지가 않아."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["What can i say? You have to get used to it."
+  , "어쩌겠어? 너 해야지 익숙해져야지 그거에."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Math is not my thing. but English is my favorite."
+  , "수학은 내 취향이 아니야. 하지만 영어는 애가 좋아하는 거야."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["If so, You should play to your strengths."
+  , "그렇다면. 너 해봐 너의 강점을 발휘."]
+  }
+}

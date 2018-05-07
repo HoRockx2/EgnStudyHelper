@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Please take me to this address.",
+      "저를 데려다 주세요 이 주소로."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Sure. If it's all right, I'd like to take a shot cut."
+  , "물론. 괜찮으시다면, 하고 싶어요 지름길로 갈께요."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["That's fine. but please step on it."
+  ,"그거 괜찮아요. 하지만 빨리 가주세요."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["It'll take 20 minutes at this time."
+  , "20분 정도 걸려요 이 시간에는."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Could you let me out over there?"
+  , "저를 내려 주시겠어요 저기에서?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["All right. Here we are. Enjoy your stay."
+  , "자. 우리는 다왔어요. 즐거운 시간 되세요."]
+  }
+}

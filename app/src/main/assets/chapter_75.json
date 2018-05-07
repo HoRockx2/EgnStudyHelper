@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["How did you get into an accident?",
+      "너 어쩌다가 사고를 당했어?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["A man crashed into my car and ran away."
+  , "남자가 내 차에 충돌했어 그리고 도망갔어."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["That was close. Did you figure out who did that?"
+  ,"큰일 날 뻔했다. 너는 밝혀냈니 누가 했는지 그걸?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Yes. But he was trying to put the blame on me."
+  , "응. 그런데 그는 시도했었어 나의 탓으로 돌리다."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["You're out of lucky today. Hope it works out for you."
+  , "너 운이 없구나 오늘. 바랄께 그게 잘 되길 널 위해."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I was so upset. I almost burst into tears."
+  , "나 너무 속상해서. 나 거의 울음을 터뜨릴뻔했어."]
+  }
+}

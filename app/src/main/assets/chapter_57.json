@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'm really out of shape. I keep on gaining weight",
+      "몸매가 망가졌어. 체중도 계속 늘어나고."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Speaking of which, i've started working out at the gym." , "얘기가 나와서 말인데, 나 헬스장에서 운동 시작했어."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Really? Maybe I should go on a crash diet.","정말? 나도 속성 다이어트를 해야겠어."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Starving is not helpful. You should go by the book.", "굶는 건 도움이 안 돼. 원칙대로 해야 해."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Well. I don't know where to start.", "음, 어디서 시작해야 할지 모르겠어."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Play it safe, start by joining the gym.", "신중하게, 헬스클럽 다니는 것부터 시작해"]}
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["What took you so long?",
+      "왜 이렇게 늦었어?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I got stuck in traffic near the city hall."
+  , "나는 차가 막혔어. 시청 근처에서."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+    ["Traffic is heavy at the time of day."
+    ,"차가 밀려 이 시간에 하루중."]
+    },
+    "4":{"speaker" : "B", "sentence" :
+  ["I got caught speeding yesterday."
+  , "난 속도위반으로 걸렸어 어제."]
+  },
+    "5":{"speaker" : "A", "sentence" :
+  ["Nothing is working for you these days."
+  , "되는일이 없구나 네게 요즘에."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I've been though a lot in the past few weeks"
+  , "겪어왔지 많은걸 지난 몇주간."]
+  }
+}

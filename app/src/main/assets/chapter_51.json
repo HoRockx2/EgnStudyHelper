@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["What's up? You look exhausted.",
+      "무슨일이야? 너 ~해 보여 피곤해."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I've been hooked on video games for the last few days."
+  , "나 중동되어 있었어 비디오 게임에 요 며칠간."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["How old are you? I should act your age."
+  ,"너 몇살이냐? 넌 나잇값 좀 해야 돼."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Look who's talking. Mind your own business."
+  , "사돈 남 말하네. 너나 잘해."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Don't lecture me. I'll kick your ass."
+  , "잔소리 하지마 내게. 내가 너를 혼내줄까보다."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Ok. Let's just come to our senses."
+  , "알았어. 하자 단지 우리 정신차리자."]
+  }
+}

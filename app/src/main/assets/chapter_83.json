@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["This work is beyond my ability. I'm not sure if I can do it.",
+      "이 일은 넘어서다 내 능력을. 난 확실하지 않다 내가 이걸 할 수 있을지."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Stop beating around the bush. Just get to the point." , "멈춰요 돌려말하는걸. 그냥 본론만 얘기해"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["I'm pulling my weight. I deserve a raise.","난 내 역할을 다하고 있다. 나 받을만하다 급여인상을"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Pay raise? Don't start with that again.", "급여 인상이라고요? 그 얘긴 꺼내지도 마 다시."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["I'm going to put in for a transfer to another division.", "나는 할꺼야 신청을 전근 타 부서로"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Please stop pressuring me. You're driving me crazy.", "제발 그만 괴롭혀요 날. 너는 나를 미치게 하는중이다."]}
+}

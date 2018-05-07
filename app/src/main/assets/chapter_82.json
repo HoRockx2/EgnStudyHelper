@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Can i help you find something?",
+      "내가 도와드릴까요 뭔가 찾는걸?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'm wondering if you can give me a discount for me on this." , "나는 궁금하다 너가 내게 할인해줄 수 있는지 이걸."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["That's a steal. We're selling these at cost.","공짜나 다름없다."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["I don't like to haggle, but it's way too expensive.", "난 종아하지 않지만 흥정하는거, 하지만 이건 너무 비싸네요"]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Why don't you try it on for size?", "너 한번 이걸 입어보는건 어때 사이즈 맞는지?"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["If you can't come down, let me sleep on it.", "만약 당신이 가격을 내릴 수 없다면, 생각 좀 해볼께요."]}
+}

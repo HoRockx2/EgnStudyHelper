@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I think I'm on a tight budget today.",
+      "내 생각에 나 돈이 부족하다 오늘."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["You paid last time. so it's my turn." , "너 계산 했잖아 지난번에. 그래서 내 차례다."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["If you insist, why don't we split the bill?","정 그렇다면, 우리 비용을 나눠 내는건 어때?"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Sure. Let's cheap in about five dollars each.", "그래. 조금 씩 걷자 약 5달러 각자"]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Ok. Here you go. Can i have a doggy bag, Please?", "그래. 여기 있어요. 남은 음식 싸주시겠어요? 부탁해"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Excuse me, but Would you call a designated driver?", "실례지만, 하지만 해줄래 부르다 대리기사를?"]}
+}

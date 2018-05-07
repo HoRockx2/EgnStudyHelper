@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Is Jason off today? He's not answering the phone.",
+      "제이슨은 휴무인가요 오늘? 그는 받지 않아요 폰을."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["He has gone for the day for a family emergency."
+  , "그는 이미 퇴근했어요 위해 급한 가정사"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Thank you for the information."
+  ,"알려줘서 고마워요."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm in charge of this project, so you can tell me."
+  , "나는 책임지고 있어요 이 프로젝트를, 그러니까 너는 내게 말해도 되요."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Sorry for bother you. but can you do me a favor?"
+  , "죄송해요 귀찮게해서. 하지만 너는 내 부탁을 들어줄 수 있니?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Sure Thing. What do you need?"
+  , "물론이죠. 뭐가 필요하세요?"]
+  }
+}

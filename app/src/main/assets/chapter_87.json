@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["You look sharp today. What's going on?",
+      "너 의상이 멋지다 오늘. 무슨일이야?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I treated myself to a new coat behind my wife's back."
+  , "나 큰맘먹고 샀어 새 코트를 내 아내 몰래."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["She'll blow her up if she finds out."
+  ,"그녀는 하겠다 불같이 화내다 만약 그녀가 발견한다면."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Leave it to me. I'll take care of it."
+  , "맞겨 내게. 내가 알아서 할꺼야."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I feel sorry for her. What kind of husband are you?"
+  , "나 그녀를 불쌍히 생각하다. 무슨 남편이 그러냐?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Keep your voice down. Don't tell a soul."
+  , "목소리 좀 낮춰. 아무한테도 말하지 마."]
+  }
+}

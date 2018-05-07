@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Have you made a profit on your house?",
+      "넌 수익 좀 냈니 집 매매해서?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Just getting by. I just broke even."
+  , "그럭저럭. 난 단지 본전이다."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I'm thinking of taking out a loan from the bank."
+  ,"나는 생각중이야 대출을 할 은행으로 부터."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Can you recommend a new area to invest in?"
+  , "너는 추천해줄 수 있니 새로운 영역을 투자할?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I have my own problems. I'm busy paying off a debt."
+  , "내 코가 석 자야. 나는 정신없어 빚 갚느라"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["We're in the same boat. I'm struggling to raise money."
+  , "우리는 같은 처지이다. 나는 애쓱고 있다 돈 모으려."]
+  }
+}

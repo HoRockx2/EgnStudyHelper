@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Hoeny. What do you think of these sunglasses",
+      "자기. 당신은 어떻게 생각해 이 선글라스를?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["You are going on a vacation or something?"
+  , "너는 휴가를 떠나니 아니면 뭐라도 하니?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Give me a break. I was just trying them out."
+  ,"한 번만 봐줘. 나는 그냥 착용만 해볼께."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I'm gonna take our kids to the ice cream stand."
+  , "나는 우리애들을 아이스크림 코너에 데려갈께."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Ok. Let's meet in the food court when i'm done."
+  , "그래. 만나자 푸드코트 안에서 나 끝날 때."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Suit yourself. Don't buy anything on impulse."
+  , "마음대로 해. 어떤것도 구매하지마 충동적으로."]
+  }
+}

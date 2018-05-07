@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Wow! Your english score went up.",
+      "와우. 너의 영어 점수가 올랐네."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I wasn't sure about a few questions, so i took a guess."
+  , "나는 잘 몰라서 몇 문제에 대해, 그래서 나는 찍었어."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["How did you get such a great score?"
+  ,"어떻게 너는 받았어 그 높은 점수를?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["The key is to put everything aside and study."
+  , "비결은 만사를 제처두는 것이야 그리고 공부."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I tried everything. but nothing worked."
+  , "나는 모든 노력을 다했어. 하지만 아무것도 안돼. (결과가 않좋아)."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["That's hard to believe. You're all talk."
+  , "그건 힘들다 믿기. 너는 항상 말뿐이잖아."]
+  }
+}

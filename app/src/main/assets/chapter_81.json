@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["You didn't come out great in this picture.",
+      "너 잘 안나왔어 이 사진에서"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["To be honest, I'm a little camera-shy." , "솔직히, 나는 좀 사진 찍히기 싫어해요."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["You look better then your picture.","너 나아 보여 너의 사진보다"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["That's what everybody tells me.", "그게 모든사람들이 내게 말하는 거에요."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["You'd better change your mind and have confidence.", "너 하는게 좋겠어 너의 마음을 바꾸고 자신감을 가지는게"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["On second thought, You have a point.", "다시 생각해 보니, 너가 맞는 것 같다."]}
+}

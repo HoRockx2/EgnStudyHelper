@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Have you ever been to that new family restaurant?",
+      "너는 가본적 있니 그 새로운 패밀리 레스토랑에?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["No. Do you think it's worth visiting?" , "아니. 너는 생각하니 그게 방문할 가치가 있다고?"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Absolutely! You'll be sorry if you miss that place.","물론이지! 너는 후회할꺼야 만약 너가 놓친다면 그 장소를."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["How did you learn of it?", "어떻게 너는 그것에 대해 들어서 아니?"]},
+  "5":{"speaker" : "A", "sentence" :
+  ["By word of mouth. A friend of mind told me.", "입소문으로. 친구가 나의 말해줬어 내게."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["What was the name of that place?", "이름이 뭐라고 했죠? 그 장소의"]}
+}

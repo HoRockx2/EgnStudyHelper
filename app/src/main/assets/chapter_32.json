@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I had to stay up all night cramming for the finals.",
+      "나 밤샛어 기말시험 벼락치기 하느랴."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Now It's party time. Live it up."
+  , "이젠 파티 시간이야. 신나게 즐기자."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Is it OK if I invite someone to the party?"
+  ,"괜찮을까 내가 만약 초대해도 누군가를 파티에."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["As long as it's not henry. He's such a party pooper."
+  , "~이기만 하다면 그게 핸리가 아니면. 그는 분위기 깨는 사람이야."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Ok. We might as well keep it a secret from him."
+  , "알았어. 우리는 아마 하는게 낫겠다 비밀로 그로부터."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Come on! Let's get a move on."
+  , "자! 저두르자."]
+  }
+}

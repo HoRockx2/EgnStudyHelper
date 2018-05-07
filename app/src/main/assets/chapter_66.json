@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["How long does it take to reach the top.",
+      "하는데 얼마나 걸려요. 도달하는데 정상에"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["We're almost there. Just hang in there." , "우리는 거의 다 왔다. 좀만 참고 견디자"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["I can't go any further. I'm feeling a little queasy.","난 못가 더 이상. 나는 좀 속이 울렁거려."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Ok. Let's get some rest and catch our breath.", "그래. 좀 쉬고 우리 한숨 돌리자."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Just a minute. I need to tie my shoes.", "잠깐만요. 나 해야되 내 신말을 묶다."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["You're breaking in your new shoes.", "너는 길들이고 있군요 너의 새 신발을."]}
+}

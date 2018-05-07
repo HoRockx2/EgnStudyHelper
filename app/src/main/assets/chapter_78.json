@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Congratulations! Your book is selling like hotcakes.",
+      "축하해! 너의 책이 불티나게 팔리고 있어."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Thanks. Please spread the word for me." , "고마워. 입소문 좀 내 줘 나를 위해."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Sure. You have a way to promote it to the public?","물론. 너는 가지고 있니 방법을 이걸 홍보할 대중에게?"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Yes. I've been posting free lectures on my site.", "네. 나는 올리고있어왔어 무료 강의를 내 사이트에"]},
+  "5":{"speaker" : "A", "sentence" :
+  ["I'll put in a good word to my friends and acquaintances.", "내가 말을 잘 해줄께 내 친구와 지인들에게."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Thanks a million. That means a lot to me.", "너무 감사해요. 그건 내게 큰 의미가 있어요."]}
+}

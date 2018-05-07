@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Are you learning english these days?",
+      "너 배우고 있는 중이니 영어를 요즘?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I just started. I think it'll help with my feature."
+  , "나 시작한지 얼마 안됐어. 내 생각에 그건 도움을 주다 내 미래에."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["It'll probably take a while before you get fluent."
+  ,"그건 아마 시간이 좀 걸릴꺼야 너가 유창해 지려면."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Now that you mention it, I'm getting cold feet."
+  , "그렇게 말하니까 나는 두려워 지는데."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["No worries. they say \"Well begun is half done\"."
+  , "걱정마. 말도 있잖아 \"시작이 반이다\"."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I go along with that."
+  , "동감이에요."]
+  }
+}

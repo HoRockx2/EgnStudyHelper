@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["How about a little hair of the dog?",
+      "어때 해장술 한잔?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Sorry, but I think I'll pass tonight." , "미안, 하지만 사양할께요 오늘 저녁은."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["You promised to treat this time. You have a lot of nerve.","너가 사기로 약속했다 이번엔. 너 참 뻔뻔하다."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Something urgent came up suddenly.", "급한일이 생겼어 갑자기."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["You're so cheap and unreliable.", "너는 정말 치사하고 믿을 수 없어."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Sorry. I have a sore throat. Let's go out next week.", "미안. 나 목이 아퍼. 다음주에 하도록 하자."]}
+}

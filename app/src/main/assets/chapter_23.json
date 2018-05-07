@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I want to see if she wants to comeback.",
+      "나는 확인해보고 싶어 그녀가 돌아오고 싶은지."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["After splitting up, It's good to go your separate ways."
+  , "헤어지고 나선, 그게 좋아 각자의 길을 가는게."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Should i give back the things she got me?"
+  ,"내가 돌려줘야 할까 그녀가 내게 줬던 것들을?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Just throw them away. what's the point of keeping them."
+  , "그냥 버려. 무슨 소용있어 그것들을 가지고 있는게."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I have no idea. How i can get over her."
+  , "나는 모르겠어. 어떻게 내가 잊을 수 있는지 그녀를."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'll set you up with a nice girl from my class."
+  , "내가 멋진 여자를 네게 소개시켜줄께 내 반에서"]
+  }
+}

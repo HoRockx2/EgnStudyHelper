@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["My stomach feels heavy from indigestion.",
+      "내 속이 더부룩해 소화가 안되서."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["You shouldn't have eaten so much at the buffet."
+  , "너는 먹지 말았어야 했어 많이 뷔페에서."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["You talked me into going there."
+  ,"너가 나를 거기 가도록 했잖아."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Don't blame me for your eating too much."
+  , "비난하지마 나를 때문에 너가 과식한걸."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I need to go on a diet or something."
+  , "난 필요해 다이어트를 하던지 뭐라도."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I can't take it anymore. I hate the way you talk."
+  , "난 더 이상 못 참어. 난 싫어 그 방식이 너가 말하는."]
+  }
+}

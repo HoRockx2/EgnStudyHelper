@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Hello. Customer Service. Brown speaking.",
+      "안녕하세요. 고객관리부 브라운 입니다."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["This is tom. Is Mr. Robinson available?"
+  , "톰이라고 합니다. 로빈슨씨 계신가요?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Hold on please. He's stepped out for a moment."
+  ,"잠시만 기다려 주세요. 그는 잠시 나가셨네요 잠깐."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["It's so hard to reach to him. He was out of town last time."
+  , "연락하기 매우 힘드네요 그에게. 그는 출장주잉었어요 지난번엔."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I'll tell him to call back to you when he gets in."
+  , "내가 말할께요 그에게 다시 전화하도록 너에게 그가 사무실에 돌아오면."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["It's almost lunch time. Maybe he's out to lunch."
+  , "점심시간이 다 되었네요. 아마 그는 점심먹으러 외출했나봐요."]
+  }
+}

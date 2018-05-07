@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Why the upset tone in your voice?",
+      "왜 화난 목소리야 니 목소리가?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Our wedding photos are all messed up."
+  , "우리 웨딩 사진들이 완전 엉망이야."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Good thing we didn't pay for it yet."
+  ,"다행이다 우리가 결제를 안해서 그걸 아직."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I chose this studio because i heard it was popular."
+  , "나는 선택했어 그 스튜디오를 왜냐하면 난 들었어 그게 유명하다고."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["You must have really freaked out."
+  , "너 정말로 기겁했구나."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'm sick of complaining about this."
+  , "난 질렸어 불평하는거 이것들에 대해"]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["The tickets are almost sold out.",
+      "표가 거의 매진되었어."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I want seats in the middle. I hate setting on the side." , "나 원해 좌석을 가운데 있는. 나 싫어 가장자리에 앉기."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Do you want some popcorn or drinks?","너 원하니 팝콘 또는 마실꺼?"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Sure. The show's about to start. Let's get in.", "물론이지. 영화가 막 시작하려고 한다. 들어가자."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Nature calls me. Save my seat.", "화장실 다녀올께. 내 자리 잡아놔."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["Ok. I need to put my phone on the vibrate.", "알았어. 나 필요해 내 폰을 진동으로 바꾸다."]}
+}

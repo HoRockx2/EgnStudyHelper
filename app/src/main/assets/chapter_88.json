@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I got a lecture for failing to meet the deadline.",
+      "나 야단맞았어 실패해서 마감시간을 지키는 걸."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["You know how your boss is about deadline."
+  , "너 알잖아 어떤지 너의 사장님이 마감일에 대해."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I don't want to let him down anymore."
+  ,"난 원하지 않아 그를 실망시키는걸 더이상."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Let's talk about it over a drink tonight."
+  , "얘기해보자 그것에 대해 먹으면서 술을 오늘밤."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I got paid today. I'll treat you to dinner."
+  , "나 월급 받았어 오늘. 내가 너에게 저녁을 대접할께"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I owe you one. It's my turn to return the favor."
+  , "나 신세진 게 있다 너에게. 이건 내 차례다 보답할."]
+  }
+}

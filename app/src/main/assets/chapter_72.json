@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Telegram is all the rage among korean people.",
+      "텔레그램이 인기가 있다 사이에 한국인."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Call me old-fashioned. but, I don't use Telegram." , "부르다 날 구식이라고, 하지만 나 안써 텔레그램"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["You don't wanna do that. People would play you for a fool.","너 않는게 좋을껄 그러는거. 사람들이 할 수도 있어 너를 바보취급"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["No wonder they weren't answering my texts.", "어쩐지 그들이 답하지 않더라 내 문자에."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["You can download the app online. You can't miss it.", "너 다운로드 할 수 있어 그 앱을 온라인에서. 찾기 쉬워."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["I see your point. but, what's the big deal?", "무슨말인지 알겠어. 하지만 그게 뭐가 중요해?"]}
+}

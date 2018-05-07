@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.horockx2.egnstudyhelper.DialogActivity"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/dialog_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"></ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Success"
+            android:textAllCaps="false"
+
+            android:id="@+id/SuccessBtn"
+            android:onClick="OnClickSuccess"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fail"
+            android:textAllCaps="false"
+
+            android:id="@+id/FailBtn"
+            android:onClick="OnClickFail"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UnCheckFail"
+            android:textAllCaps="false"
+
+            android:id="@+id/UnCheckFailBtn"
+            android:onClick="OnClickUnCheckFail"/>
+    </LinearLayout>
+
+</LinearLayout>

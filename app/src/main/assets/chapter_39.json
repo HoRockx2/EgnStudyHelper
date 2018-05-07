@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Do you want insurance coverage?",
+      "당신 원해요 보험을?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Yes. I don't want to take a big risk."
+  , "네. 난 원하지 않아요 큰 위험을 감수하길."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["When is your baby due anyway?"
+  ,"출산 예정일은 언제에요? 그나저나."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["It's coming up. It's about 3 months away."
+  , "얼마 안남앗어요. 거의 3개월 정도 남았어요."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Let's get together for lunch sometime."
+  , "만납시다 점심식사를 위해 언제."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Sounds like a plan."
+  , "좋은 생각이에요."]
+  }
+}

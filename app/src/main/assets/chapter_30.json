@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Our kids always fight over nothing.",
+      "우리애들은 항상 사소한 일로 싸워."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["It's no big deal. Never mind."
+  , "별일 아니야. 신경쓰지마."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I agree with you to some degree. but I'm a little sensitive."
+  ,"나도 동의해 어느정도. 내가 조금 예민한가봐."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["They have no trouble adjusting to school life?"
+  , "그들은 문제없지 적응하는데 학교생활에?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Yes. I guess so."
+  , "응 그런거 같다."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I bet they'll grow up to be great people."
+  , "난 확신해 그들은 커서 훌륭한 사람이 될꺼야."]
+  }
+}

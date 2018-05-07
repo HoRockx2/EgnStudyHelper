@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["You're all dressed up for the interview today.",
+      "너 완전 빼입었구나 오늘 인터뷰를 위해."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["You know what they say \"Clothes make the man\""
+  , "그들이 말하는거 너도 알잖아. \"옷이 남자를 만든다.\""]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["It looks like you got a new suit."
+  ,"인거같아 너 샀어 새로운 양복을."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I haven't bought a new one in six years."
+  , "나는 6년동안 사지 않았어 새것을"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["That's where you've changed, you used to wear wash-and-wear."
+  , "그 점이 너가 달라진거구나, 너는 하곤했지 입다 싸구려옷을"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Just drop it! Let's wait and see how the result comes out."
+  , "됐어 그만해. 지켜보자 어떻게 그 결과가 나오는지."]
+  }
+}

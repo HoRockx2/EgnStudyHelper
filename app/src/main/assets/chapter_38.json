@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Anything good happen today?",
+      "좋은 일 있어요 오늘?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Wow! How could you tell?"
+  , "와우. 어떻게 당신은 알아차렸죠?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["It's written all over your face."
+  ,"다 써져있어요 당신 얼굴에."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["My son got accepted to havard Business School."
+  , "내 아들이 합격했어요 하버드 경영학교에."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["That's good news. You deserve to take all the credit."
+  , "좋은 소식이네요. 당신은 자격이 있어요 모든 공을 차지할."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Thanks. Everything is under control."
+  , "고마워. 모든일이 잘 진행되고 있어요."]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'm really crazy about soccer lately.",
+      "나는 정말 매우 좋아해 축구를 요즘."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Which team are you looting for?" , "어떤 팀을 너는 응원하니?"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Chelsea. They came from behind and won 3 to 1 today.","첼시. 그들은 역전했어 그리고 이겼어 3대 1로 오늘."]},
+  "4":{"speaker" : "B", "sentence" :
+  ["I guess your team is on a winning streak.", "나는 인거같아 너네 팀은 연승하고 있구나."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Yeah. That's the ninth win in a row already.", "응. 그건 9 번째 연승이야 이미."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["My team's game ended in a tie.", "내 팀 게임은 끝났어 무승부로."]}
+}

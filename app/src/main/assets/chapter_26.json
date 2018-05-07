@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Why are you in a hurry? Just slow down.",
+      "왜 이렇게 너 바뻐? 천천히 좀 해."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I can't wait to get married and live with you."
+  , "난 기다릴 수 없어 결혼하는걸 그리고 너와 사는걸."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Just because we go out doesn't mean we have to get married."
+  ,"우리가 사귄다고 해서 결혼해야 하는건 아니잖아요."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I see what you mean. take whatever time you need."
+  , "알겠어 너가 의미하는 걸. 시간을 충분히 가져요."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Now you're talking."
+  , "이제 대화가 되네요."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["People say that we're a good match."
+  , "사람들이 말해요 우리가 잘 어울린다고."]
+  }
+}

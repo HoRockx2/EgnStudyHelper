@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Why dose she look so sad?",
+      "왜 그녀가 매우 슬퍼보이는거야?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Probably because i made fun of her. so you was upset."
+  , "아마 왜냐하면 나 놀렸어 그녀를. 그래서 그녀는 화났었어."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["What did you say?"
+  ,"너 뭐라고 말했는데?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Gold digger. That's what people say."
+  , "돈만 밝힌다고. 사람들이 그렇게 말하지."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I think you've got her wrong."
+  , "내 생각에 너 그녀를 오해했어."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I think I'm gonna call her back and apologize."
+  , "내 생각에 나는 그녀에게 다시 전화할꺼야 그리고 사과해야지."]
+  }
+}

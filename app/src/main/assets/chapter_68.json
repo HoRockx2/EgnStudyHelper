@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["She has a big mouth. She can't keep a secret.",
+      "그녀는 입이 가벼워. 그년 할 수 없어 지킬 수 비밀을."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["That's why you give her the cold shoulder. right?" , "그게 이유구나 너가 그녀에게 차갑게 대하는. 그치?"]},
+  "3":{"speaker" : "A", "sentence" :
+  ["What would you do if you were in my shoes?","넌 어떻게 할꺼야? 네가 내 입장이라면?"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Well, I haven't given it a lot of thought.", "글쎄, 나 생각을 많이 안해봤는데."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Anyway, She's kind of a pain in the neck.", "어쨌든, 그년 종류야 골칫거리야."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["I'm sorry to hear that.", "나는 유감이다 들으니."]}
+}

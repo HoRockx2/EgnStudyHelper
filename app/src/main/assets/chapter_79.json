@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I think it's too much for me to play golf.",
+      "내 생각에 골프하는건 벅찬거같아 내게."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Once you get the hang of it, It's just a matter of time." , "한번 너가 요령이 생기면, 그건 단지 시간문제야."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["Would it be possible to catch up with you in a year?","그게 가능할까 너를 따라잡는게 일년안에?"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["I guess so. For starter, try to get used to it.", "아마도. 우선은, 노력해봐 익숙해지도록 그것에."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["All the practice will pay off in the near feature.", "모든 연습은 성과가 있을꺼야 가까운 미래에(조만간)"]},
+  "6":{"speaker" : "B", "sentence" :
+  ["It's always easier said then done.", "그건 항상 말은 행동보다 쉽다."]}
+}

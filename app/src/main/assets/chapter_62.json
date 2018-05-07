@@ -1,0 +1,17 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Dinner is ready. Come and take it!",
+      "저녁식사가 준비되었어. 와서 밥 먹어라!"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'll skip my dinner. I lost my appetite." , "난 할꺼야 저녁 식사를 거르다. 나 식욕을 잃었어."]},
+  "3":{"speaker" : "A", "sentence" :
+  ["You shouldn't have snacked before a meal.","넌 해선 안되 군것질을 해오다 식사전에"]},
+  "4":{"speaker" : "B", "sentence" :
+  ["Mon, I think this soup tastes funny.", "엄마. 내 생각에 이 수프는 맛이 이상하다."]},
+  "5":{"speaker" : "A", "sentence" :
+  ["Ok. fine. Have it your way.", "그래 알았어. 좋을대로 해라."]},
+  "6":{"speaker" : "B", "sentence" :
+  ["May i be excused?", "먼저 일어나도 되죠?"]}
+}
