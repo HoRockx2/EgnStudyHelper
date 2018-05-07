@@ -53,6 +53,14 @@ public class DialogActivity extends AppCompatActivity {
         CreateAdapter();
         AttachAdapterToListView();
 
+        Button btn = this.findViewById(R.id.ChangeDialog);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                OnClickChangeDialog(view);
+            }
+        });
+
         UpdateActionBarText();
 
         Log.Info("dialogChapter : " + dialogChapter);
@@ -266,5 +274,36 @@ public class DialogActivity extends AppCompatActivity {
     {
         Intent intent = new Intent("updateDialogData");
         LocalBroadcastManager.getInstance(this).sendBroadcast(intent);
+    }
+
+    public void OnClickChangeDialog(View view) {
+        // GetNewDialog. It should be update file name.
+        dialogFileName = DialogManager.GetRandomDialogFileNameByPriority(this);
+        // Update adapter
+//        adapter.clear();
+        sentenceList.clear();
+        FillSentenceList();
+        CreateAdapter();
+        AttachAdapterToListView();
+
+        UpdateActionBarText();
+
+//        for(SentenceModel obj : sentenceList)
+//        {
+//            adapter.insert(obj, adapter.getCount());
+//        }
+//
+//        adapter.notifyDataSetChanged();
+
+        /*
+                        adapter.clear();
+                GetDialogList();
+                for(DialogFileModel obj : dialogList)
+                {
+                    adapter.insert(obj, adapter.getCount());
+                }
+
+                adapter.notifyDataSetChanged();
+         */
     }
 }

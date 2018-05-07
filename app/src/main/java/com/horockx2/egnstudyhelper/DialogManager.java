@@ -74,6 +74,76 @@ public class DialogManager {
         return retList;
     }
 
+    public static String GetRandomDialogFileNameByPriority(Context context)
+    {
+        DialogDbHelper dbHelper = new DialogDbHelper(context);
+        SQLiteDatabase db = dbHelper.getReadableDatabase();
+        String strRet = "";
+
+        String sql = "select " + DialogDBContract.DialogEntry.COLUMN_NAME_FILE_NAME +
+                " from " + DialogDBContract.DialogEntry.TABLE_NAME +
+                " where " + DialogDBContract.DialogEntry.COLUMN_NAME_DAILY_CHECK_DAY +
+                " = '';";
+
+        Cursor neverCheckDialogs = db.rawQuery(sql, null);
+        if(neverCheckDialogs.getCount() != 0)
+        {
+            Random rand = new Random();
+            int randInt = rand.nextInt(neverCheckDialogs.getCount());
+
+            neverCheckDialogs.moveToFirst();
+            neverCheckDialogs.move(randInt);
+
+            strRet = neverCheckDialogs.getString(0);
+        }
+        else
+        {
+            sql = "select " + DialogDBContract.DialogEntry.COLUMN_NAME_FILE_NAME +
+                    " from " + DialogDBContract.DialogEntry.TABLE_NAME +
+                    " where " + DialogDBContract.DialogEntry.COLUMN_NAME_DAILY_CHECK_DAY +
+                    " not in ('" + GetYesterDay() + "','" + GetToday() + "');";
+
+            Cursor notCheckedYesterDayAndToday = db.rawQuery(sql, null);
+
+            if(notCheckedYesterDayAndToday.getCount() != 0)
+            {
+                Random rand = new Random();
+                int randInt = rand.nextInt(notCheckedYesterDayAndToday.getCount());
+
+                notCheckedYesterDayAndToday.moveToFirst();
+                notCheckedYesterDayAndToday.move(randInt);
+
+                strRet = notCheckedYesterDayAndToday.getString(0);
+            }
+            else
+            {
+                sql = "select " + DialogDBContract.DialogEntry.COLUMN_NAME_FILE_NAME +
+                        " from " + DialogDBContract.DialogEntry.TABLE_NAME +
+                        " where " + DialogDBContract.DialogEntry.COLUMN_NAME_DAILY_CHECK_DAY +
+                        " not in ('" + GetToday() + "');";
+
+                Cursor notCheckedToday = db.rawQuery(sql, null);
+
+                if(notCheckedToday.getCount() != 0)
+                {
+                    Random rand = new Random();
+                    int randInt = rand.nextInt(notCheckedToday.getCount());
+
+                    notCheckedToday.moveToFirst();
+                    notCheckedToday.move(randInt);
+
+                    strRet = notCheckedToday.getString(0);
+                }
+                else
+                {
+                    Log.Info("Select random dialog Error!!");
+                }
+            }
+        }
+
+        return strRet;
+    }
+
     public static DialogFileModel GetCertainDialogFileNameAndDailyCheckList(Context context, String FileName)
     {
         DialogDbHelper dbHelper = new DialogDbHelper(context);
