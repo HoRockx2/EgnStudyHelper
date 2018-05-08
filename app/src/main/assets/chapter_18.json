@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["It's hard to reach you by phone.",
+      "어렵다 너와 연락이 되는게 전화로"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Sorry. I haven't had time to return calls."
+  , "미안. 나 없어왔다 시간이 회신 전화를 할."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Do you remember we're going for a drink tonight?"
+  ,"너 기억하니 우리 술마시러 간다 오늘밤?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Yes, but can I take a rain check?"
+  , "응, 근데 나 해도 될까 다음 기회로 미뤄도?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["You can't break our promise this time."
+  , "너 할 수 없다 약속을 어기다 이번에는."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'm booked solid today. My head's gonna explode."
+  , "나 스케줄이 꽉 찾다 오늘. 내 머리가 폭발할 것 같아."]
+  }
+}

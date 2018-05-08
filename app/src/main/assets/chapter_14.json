@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'm not feeling well today, so I called in sick.",
+      "나 몸이 좋지 않아 오늘. 그래서 나 병가를 냈어."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I think you should take a few days off."
+  , "내 생각에 너 해야되 며칠 쉬다."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I'd like to. Thanks for your concern."
+  ,"그러고 싶어. 걱정해 줘서 고마워.."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["It's like you've been working 24/7 these days."
+  , "인거 같더라 너 일해왔다 밤낮으로 요즘에."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I don't want to work overtime, but it's the only way."
+  , "나 원하지 않아 야근을, 하지만 이게 유일한 방법이다.(방법이 없다.)"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'm telling you, nobody can stop you."
+  , "정말이야, 아무도 너를 못 말리다."]
+  }
+}

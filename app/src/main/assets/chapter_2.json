@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I got something for your birthday.",
+      "나 샀어 뭘 좀 위해 너의 생일"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["A present for me? You shouldn't have!"
+  , "선물 나를위한? 이러지 않아도 되는데!"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["It's cold outside. I'll give you a ride home."
+  ,"추워 밖이. 내가 할께 너를 태워주다 집에."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Don't bother, but thanks anyway."
+  , "일부러 그럴 거 없어, 하지만 어쨋든 고마워."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Don't mention it. That's what friends are for."
+  , "별말을 다 하네. 친구 좋다는게 뭐야."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Something smells fishy. Just be yourself."
+  , "뭔가 수상한데. 그냥 평소처럼 행동해."]
+  }
+}

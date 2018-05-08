@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'd like to put my car on the market.",
+      "나 하고 싶어 내 차를 시장에 내놓다."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Are you sure? What's the deal?"
+  , "정말이야? 무슨 일이야?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["We don't need to cars anymore."
+  ,"우리 필요로 하지 않아 차들을 더 이상."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["What if you have the car, and I have to go shopping?"
+  , "어떻게 하면 되지 너가 차를 쓰고 있는데, 그리고 내가 해야만 하면 쇼핑을 가야 된다면?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["We need to cut back on shopping."
+  , "우리는 필요해 줄이다 쇼핑을."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Honey, I think you should just calm down a little bit."
+  , "자기야. 내 생각에 너 해야되 단지진정하다 조금."]
+  }
+}

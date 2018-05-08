@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I got a flat tire while dropping off my son at school.",
+      "나 타이어 펑그가 났어 도중에 내 아들을 학교에 데려주다가."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Again? It happened two months ago."
+  , "또? 그건 일어났다 두 달 전에."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Yeah, and now my car won't start. This is ridiculous."
+  ,"응, 그리고 지금 내 차가 시동이 안걸려. 이건 말도 안 돼."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Maybe you should call your insurance company."
+  , "아마 너는 해야겠다 전화하다 너의 보험회사를."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["I'm going to be a little late to work."
+  , "나 할거야 조금 늦다 회사에."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["OK. I'll tell your immediate supervisor."
+  , "그래요. 나 말할께 너의 직속 상사에게"]
+  }
+}

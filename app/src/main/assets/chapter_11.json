@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Please don't give me a hard time.",
+      "제발 하지마요 나를 힘들게 하다."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["It's not like I asked you to marry me or what."
+  , "인 것도 아니잖아 내가 요구하다 너에게 나와 결혼해달라거나 딴걸 해달라고"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["you just occasionally wanna have coffee or lunch?"
+  ,"넌 단지 가끔 하고싶은거야 커피마시거나 점심 먹거나?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I hope we can get back together again."
+  , "나 희망해 우리가 할 수 있길 다시 만나는걸 다시"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["How could you cheat on me for that long?"
+  , "너 어떻게 바람을 필 수 있니 내게 그렇게 오래?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I must admit, I've crossed the line."
+  , "나 솔직히 그랬다 내가 너무해왔었다."]
+  }
+}

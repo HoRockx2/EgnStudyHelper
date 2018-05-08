@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'm calling to make a reservation at seven.",
+      "나 하려고 전화드렸어요 예약하다 7시에."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["How many in your party, sir?"
+  , "인원이 몇 명이시죠, 선생님?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Do you have a room for six?"
+  ,"6인용 방이 있나요?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["It makes no difference whether you book or not."
+  , "그건 별 차이가 없다 너가 예약 하든 안하든."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["What do you mean?"
+  , "무슨 뜻이죠?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["You'll be admitted on a first-come first-served basis."
+  , "당신은 입장하게 됩니다 오시는 순서를 기준으로"]
+  }
+}

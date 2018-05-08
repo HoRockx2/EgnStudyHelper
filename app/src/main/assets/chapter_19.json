@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Could you come here a sec?",
+      "너 와줄 수 있니 여기로 잠시?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Speak of the devil. What's up?"
+  , "호랑이도 제 말하면 온다더니, 무슨 일이야?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Your boss is asking for the report."
+  ,"너의 사장님이 요구하고 있어 보고서를."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["One moment, I'll sneak out of the meeting."
+  , "만시만요, 나는 몰래 빠져나갈께 미팅을"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Look, it's almost 6. Time to call it day."
+  , "이봐, 거의 6시야. 시간이야 하루를 마감할"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Okay, I'll wrap things up in 5 minutes."
+  , "알겠어. 나는 이것들을 마무리 할께 5분 안에"]
+  }
+}

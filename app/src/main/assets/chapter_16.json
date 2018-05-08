@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["What are you gonna do this weekend?",
+      "무엇을 너는 할 거니 이번 주말에?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'll take my kids outside and play in the yard."
+  , "나는 내 아이들을 밖으로 데려갈 꺼야 그리고 야외에서 놀꺼야."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Why don't we go catch a late-night movie tomorrow?"
+  ,"우리 심야영화를 보는건 어때요 내일?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Sounds good, but I'm signing up for yoga class."
+  , "좋은 생각이야, 하지만 나는 신청하러 가야 해 요가 수업을."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Once you make a decision, you stick to it."
+  , "한번 너가 결심하면, 너는 계속하지 그걸."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["The clock is ticking. It's now or never."
+  , "시간이 흐르잖아. 지금아니면 기회가 없어."]
+  }
+}

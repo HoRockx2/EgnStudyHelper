@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I feel like going out with you tonight.",
+      "나 하고싶어 놀러 너랑 오늘밤에"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'm sorry, but I have a previous engagement."
+  , "미안, 나 있어 선약이"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Nothing beats beer with chicken on a hot day."
+  ,"이만한 것도 없다 치맥 더운날에"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Come to think of it, I can't miss a drinking session."
+  , "다시 생각해 보니, 나는 놓칠 수 없어 술자리를"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["That's it! You might as well cancel your appointment."
+  , "그거야! 너 하는게 좋겠어 취소 너의 약속을"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I'm gonna have to postpone it for another day."
+  , "나는 할 것이다 해야만 한다 연기를 그걸 다른날로"]
+  }
+}

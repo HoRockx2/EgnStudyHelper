@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Can you give me a head with this?",
+      "너 할수 있니 내가 이거 하는걸 돕는걸?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I'd love to, but I'm too busy."
+  , "나도 그러고 싶은데, 나 너무 바뻐."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["How come you're good at making excuses?"
+  ,"왜 그러는거야 너 그리 잘하니 핑계를 대는걸?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Don't take it out on me."
+  , "화풀이 하지마 내게"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["All you have to do is just say yes."
+  , "넌 하기만하면 된다 그냥 예스 라고 하면."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["You have to do it yourself to improve your ability."
+  , "너 해야만 해 하다 그걸 스스로 너의 능력을 키우기 위해."]
+  }
+}

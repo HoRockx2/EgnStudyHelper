@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["It's like you worry about the kids too much.",
+      "인 것 같다 너 걱정한다 애들에 대해 너무 많이"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Don't be silly. There's a good reason for that."
+  , "바보 같은 소리 하지 마요. 있어요 그만한 이유가."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["When I was their age, I used to disappear for hours."
+  ,"내가 그들 나이에는, 나는 하곤 했어 사라지고 몇 시간씩."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Times have changed. We can't take our eyes off them."
+  , "세상이 변했어요. 우리는 우리 눈을 뗄 수 없어요 그들에게서"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Okay, I'll pay more attention."
+  , "알았어. 나는 좀 더 신경 쓸께."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Your room is a mess. Please help me clean it."
+  , "니 방이 엉망이에요. 나를 좀 도와줘요 치우는걸 그걸."]
+  }
+}

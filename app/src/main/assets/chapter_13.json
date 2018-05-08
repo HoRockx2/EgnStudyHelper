@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'm gonna have my friend over tonight.",
+      "나는 할거에요 내 친구를 집에 초대하다 오늘밤."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["What's the occasion? He's a friend from school?"
+  , "무슨 일이죠? 그는 친구니 학교?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Yes, the real good kind. We have a lot in common."
+  ,"네, 정말 좋은 부류에요. 우리는 많은 공통점이 있어요."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["You can't tell me something like this on such short notice."
+  , "너 할 수 없다 말하다 내게 뭔가를 이렇게 급박하게."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Mon, Please don't tell me what to do."
+  , "엄마, 제발 내게 잔소리를 하지 마세요."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["He's not coming. Over my dead body!"
+  , "그는 못온다. 절대로 안 돼!"]
+  }
+}

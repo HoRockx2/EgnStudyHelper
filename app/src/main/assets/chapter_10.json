@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["My boss is not easy to get along with.",
+      "내 사장님은 쉽지 않아 잘 지내기."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["What is it? Spit it out."
+  , "뭐 때문에? 솔직히 말해봐."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["He's two-faced and getting out of hand."
+  ,"그는 이중적이고 그리고 감당이 안되고 있는 중이야."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["You're annoyed by his constant complaints."
+  , "너 짜증스럽다며 인해 그의 끊임없는 불평 때문에."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["He's in a bad mood for some reason today."
+  , "그는 기분이 나뻐 어떤 이유로 인해 오늘."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["The thing is you're not cut out to kiss up to him."
+  , "문제는 너는 적합하지 않다는 거야 아부하는게 그에게"]
+  }
+}

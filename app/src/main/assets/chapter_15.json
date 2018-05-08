@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Hey, what's up with your hair?",
+      "이봐, 대체 왜 그래 너의 머리는?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I overslept. My office dinner ended after midnight."
+  , "나 늦잠 잤어. 우리 사무실 회식이 끝났어 자정 넘어서."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["You are supposed to make a presentation tomorrow."
+  ,"너 하기로 되어있다 플젠테이션 하기로 내일."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Can you help me with my work a little?"
+  , "너 도와줄 수 있니 나를 내 일을 조금?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Okay. Let's go over your assignment first."
+  , "그래. 우선 검토하자 너의 과제물을 먼저."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Please book a meeting room in advance."
+  , "미팅룸을 미리 예약 부탁해요."]
+  }
+}

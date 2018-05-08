@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["How did you get those plane tickets?",
+      "넌 어떻게 어덩ㅆ어? 그 비행기 티켓들."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I pulled some strings. I have good connections."
+  , "나 백을 썻다. 나 좋은 인맥이 있다."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I knew it. Care for some coffee after lunch?"
+  ,"그럴 줄 알았어. 커피한잔 어때 후에 점심?"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["You're a big fan of coffee. Go easy on it."
+  , "너 정말 좋아하는구나 커피를. 적당히 해 그걸."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["It's not gonna kill you to have one."
+  , "한다고 큰일 안난다 한잔 한다고."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Don't forget to bring Anna."
+  , "하는거 잊지마 대려오다 안나."]
+  }
+}

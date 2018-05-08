@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I'm going camping this weekend. What to come along?",
+      "나 캠핑하러 갑니다 이번주에. 원하니 같이 가길?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Why not? Can i get you anything?"
+  , "당연하지. 내가 뭘 가져갈 수 있을까요?"]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Just bring yourself. I'll take care of everything."
+  ,"그냥 몸만 오세요. 내가 할꺼야 처리할꺼야 모든걸."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["I've been wanting to hit the road for a change lately."
+  , "나 기다려오고 있었다 여행을 떠나길 기분 전환 삼아 최근."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["That's great! I'm also looking forward to this trip."
+  , "자로댔네요! 나 또한 기대하고 있어요 이번 여행을."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["I wouldn't miss it for anything."
+  , "나 놓치지 않을꺼에요 무슨일이 있어도."]
+  }
+}

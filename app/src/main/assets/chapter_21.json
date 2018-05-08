@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Have you ever committed any crimes?",
+      "한적 있어요 범죄를 저지른적?"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Absolutely not. I've never broken the law."
+  , "물론 없죠. 난 절대 법을 어겨온게 없어요."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["What if someone blackmails you into something?"
+  ,"어떻게 할건가요? 누가 협박하면 너를 뭔가 하라고 "]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["In that case, I'll report to the police."
+  , "그런 경우엔, 나 경찰에 신고할꺼에요."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Actually, I'm in a real sticky situation."
+  , "사실. 나는 어려운 상황에 처해있어요."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Not to worry. I'll keep an eye on you."
+  , "걱정 마세요. 내가 지켜볼께요 너를"]
+  }
+}
