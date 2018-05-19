@@ -1,0 +1,27 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I've been out of touch with Jason for months.",
+      "나 연락이 끊겼어 제이슨하고 몇 달째."]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["I've texted him a few times. He's in the doghouse."
+  , "내가 문자를 해봤는데 그에게 몇번, 그는 찍혔어."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Let's drop the subject and go out for lunch."
+  ,"그 얘긴 그만하자. 그리고 먹으러 가자 점심"]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Here comes the food. Let's dig in."
+  , "여기 나왔다 음식이. 먹자."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["The total comes to $24."
+  , "총 24달러가 나왔습니다."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Put it on my account, please."
+  , "장부에 달아주세요. 부탁합니다."]
+  }
+}
