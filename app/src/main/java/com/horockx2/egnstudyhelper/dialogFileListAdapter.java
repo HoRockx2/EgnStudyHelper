@@ -35,6 +35,7 @@ public class dialogFileListAdapter extends ArrayAdapter<DialogFileModel> {
         }
 
         ImageView checkMark = convertView.findViewById(R.id.DailyCheck);
+        ImageView failMark = convertView.findViewById(R.id.FailCheck);
         TextView fileName = convertView.findViewById(R.id.FileName);
         TextView lastCheckedDate = convertView.findViewById(R.id.last_checked_date);
 
@@ -42,30 +43,32 @@ public class dialogFileListAdapter extends ArrayAdapter<DialogFileModel> {
 
         if(file.isFail)
         {
-            checkMark.setImageResource(R.mipmap.exclamation_mark);
+            failMark.setVisibility(View.VISIBLE);
+        }
+        else
+        {
+            failMark.setVisibility(View.INVISIBLE);
+        }
+
+        checkMark.setImageResource(R.mipmap.check_mark);
+
+        if(file.isDailyChecked) {
+            lastCheckedDate.setVisibility(View.GONE);
             checkMark.setVisibility(View.VISIBLE);
         }
         else
         {
-            checkMark.setImageResource(R.mipmap.check_mark);
-
-            if(file.isDailyChecked) {
-                lastCheckedDate.setVisibility(View.GONE);
-                checkMark.setVisibility(View.VISIBLE);
-            }
+            checkMark.setVisibility(View.INVISIBLE);
+            lastCheckedDate.setVisibility(View.VISIBLE);
+            String lastDate;
+            if(file.dailyCheckedDate.isEmpty())
+                lastDate = "N/A";
             else
-            {
-                checkMark.setVisibility(View.GONE);
-                lastCheckedDate.setVisibility(View.VISIBLE);
-                String lastDate;
-                if(file.dailyCheckedDate.isEmpty())
-                    lastDate = "N/A";
-                else
-                    lastDate = file.dailyCheckedDate;
+                lastDate = file.dailyCheckedDate;
 
-                lastCheckedDate.setText(lastDate);
-            }
+            lastCheckedDate.setText(lastDate);
         }
+
 
 
         return convertView;

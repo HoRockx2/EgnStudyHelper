@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="58" />
+                                                <entry key="scalingPercent" value="89" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -34,8 +34,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="C:\Users\user\Pictures\exclamation_mark.png" />
-                                      <entry key="outputName" value="exclamation_mark" />
+                                      <entry key="foregroundImage" value="C:\Users\MinYoung\Pictures\blue_zaku_foreground.png" />
+                                      <entry key="outputName" value="blue_zaku" />
                                     </map>
                                   </option>
                                 </PersistentState>

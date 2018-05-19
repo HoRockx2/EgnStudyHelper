@@ -5,9 +5,9 @@
       "내가 도와드릴까요 뭔가 찾는걸?"]
   },
   "2":{"speaker" : "B", "sentence" :
-  ["I'm wondering if you can give me a discount for me on this." , "나는 궁금하다 너가 내게 할인해줄 수 있는지 이걸."]},
+  ["I'm wondering if you can give me a discount on this." , "나는 궁금하다 너가 내게 할인해줄 수 있는지 이걸."]},
   "3":{"speaker" : "A", "sentence" :
-  ["That's a steal. We're selling these at cost.","공짜나 다름없다."]},
+  ["That's a steal. We're selling these at cost.","공짜나 다름없다. 우리는 팔고있어요 이것들을 제 가격에"]},
   "4":{"speaker" : "B", "sentence" :
   ["I don't like to haggle, but it's way too expensive.", "난 종아하지 않지만 흥정하는거, 하지만 이건 너무 비싸네요"]},
   "5":{"speaker" : "A", "sentence" :

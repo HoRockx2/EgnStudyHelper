@@ -1,0 +1,31 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["I have a reservation under the name of Jinsu Kim.",
+      "나 에약했어요 김진수 라는 이름으로"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["Yes, Sir. Could you fill out this form, please?"
+  , "네, 손님. 해주시겠어요 작성하다 이 양식을, 부탁합니다."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["I'd like a room with an ocean view if possible."
+  ,"나 방이면 좋겠어요 바다가 보이는 전망과 함께 가능하면."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Let me check. Okay, we have one. Your room number is 902."
+  , "확인해보겠습니다. 좋아요, 우리 하나 있네요. 당신의 방 번호는 902 입니다."]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["Great. Can you give me a wake-up call at 7:00?"
+  , "좋아요. 할수 있나요 당신은 내게 모닝콜을 해주다 7시에?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Sure. I'll have a bellboy carry your luggage to your room."
+  , "물론이죠. 나 할것이다 시키다 벨보이에게 옮기라고 너의 짐을 너의 방으로"]
+  },
+  "7":{"speaker" : "A", "sentence" :
+  ["Can I have an extra towel in my room, please?"
+  , "하나 더 주실래요 수건을 제 방에, 부탁합니다."]
+  }
+}

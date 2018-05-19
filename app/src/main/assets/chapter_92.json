@@ -1,0 +1,31 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["What's the problem today?",
+      "뭐가 문제인가요 오늘? (어디가 불편하세요?)"]
+  },
+  "2":{"speaker" : "B", "sentence" :
+  ["This is my first time here. I have a bad cough."
+  , "제게 처음인데요 여기가. 나 기침을 심하게 해요."]
+  },
+  "3":{"speaker" : "A", "sentence" :
+  ["Leave your name and phone number, please."
+  ,"남겨주세요 당신의 이름과 핸드폰 번호를, 부탁합니다."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Ok. How many parties are ahead of me?"
+  , "네. 몇 명의 대기자가 앞에 있나요 나의?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["12. Do you want me to put you on the waiting list?"
+  , "열두명이요. 제가 해드릴까요 당신을 대기자 명단에 올리기를?"]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Yes, please. How long is the wait?"
+  , "네, 부탁합니다. 얼마나 기다려야 하나요?"]
+  },
+  "7":{"speaker" : "A", "sentence" :
+  ["The way i see it, it should take 30 minutes."
+  , "내가 보기엔, 이건 30분이 걸릴 것이다."]
+  }
+}

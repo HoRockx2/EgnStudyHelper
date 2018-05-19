@@ -40,8 +40,10 @@ public class DialogListAdapter extends ArrayAdapter<SentenceModel> {
 //        speaker.setText(sentence.speaker);
         if(sentence.speaker.equals("A"))
             speaker.setImageResource(R.mipmap.green_zaku_round);
-        else
+        else if(sentence.speaker.equals("B"))
             speaker.setImageResource(R.mipmap.red_zaku_round);
+        else
+            speaker.setImageResource(R.mipmap.blue_zaku_round);
         engSentence.setText(sentence.engSentence);
         korSentence.setText(sentence.korSentence);
 

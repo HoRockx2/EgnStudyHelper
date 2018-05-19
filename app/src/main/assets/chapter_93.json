@@ -1,0 +1,47 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Can I take your order?",
+      "내가 주문 도와드릴까요?"]
+  },
+  "2":{"speaker" : "A", "sentence" :
+  ["What can I get for you?"
+  , "무엇이 내가 너를위해 할 수 있는 걸까? (내가 뭘 해드릴까요?)"]
+  },
+  "3":{"speaker" : "B", "sentence" :
+  ["I'd like a cheese burger, french fries and a coke."
+  ,"주세요. 치즈버거 한 개와, 감자튀김 그리고 콜라 하나"]
+  },
+  "4":{"speaker" : "A", "sentence" :
+  ["For here or to go?"
+  , "여기서 드세요, 가져가세요?"]
+  },
+  "5":{"speaker" : "B", "sentence" :
+  ["To go, please."
+  , "가져갈께요."]
+  },
+  "6":{"speaker" : "B", "sentence" :
+  ["Take it easy on the onions."
+  , "조금만 넣어주세요 양파는"]
+  },
+  "7":{"speaker" : "A", "sentence" :
+  ["Will that be all?"
+  , "그게 전부인가요?"]
+  },
+  "8":{"speaker" : "A", "sentence" :
+  ["That's be $7.50."
+  , "7달러 5센트 입니다."]
+  },
+  "9":{"speaker" : "A", "sentence" :
+  ["Enjoy your meal."
+  , "맛있게 드세요."]
+  },
+  "10":{"speaker" : "B", "sentence" :
+  ["I'd like to pay by credit card."
+  , "나는 그러고싶어요 신용카드로 계산하다."]
+  },
+  "11":{"speaker" : "B", "sentence" :
+  ["Here you go."
+  , "여기 있습니다."]
+  }
+}

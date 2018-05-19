@@ -229,7 +229,7 @@ public class DialogManager {
     public static String GetToday()
     {
         Date c = Calendar.getInstance().getTime();
-        SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
+        SimpleDateFormat df = new SimpleDateFormat("MM-dd");
         String formattedDate = df.format(c);
 
         return formattedDate;
@@ -240,7 +240,7 @@ public class DialogManager {
         final Calendar c = Calendar.getInstance();
         c.add(Calendar.DATE, -1);
         Date date = c.getTime();
-        SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
+        SimpleDateFormat df = new SimpleDateFormat("MM-dd");
         String formattedDate = df.format(date);
 
         return formattedDate;

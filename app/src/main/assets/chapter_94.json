@@ -1,0 +1,39 @@
+{
+  "1": {
+    "speaker" : "A",
+    "sentence" :   ["Do you have a reservation?",
+      "예약 하셨나요?"]
+  },
+  "2":{"speaker" : "A", "sentence" :
+  ["No. Do you have a table for five?"
+  , "아니요. 자리가 있나요 5명을 위한?"]
+  },
+  "3":{"speaker" : "B", "sentence" :
+  ["Certainly."
+  ,"물론이죠."]
+  },
+  "4":{"speaker" : "B", "sentence" :
+  ["Would you like a table or booth?"
+  , "하실래요 테이블자리를 아니면 칸막이 쪽?"]
+  },
+  "5":{"speaker" : "A", "sentence" :
+  ["We'd like to sit in a booth."
+  , "우리는 할래요 앉다 칸막이 자리에."]
+  },
+  "6":{"speaker" : "A", "sentence" :
+  ["What do you say, honey/"
+  , "당신은 어떻게 생각해, 여보?"]
+  },
+  "7":{"speaker" : "C", "sentence" :
+  ["It's all the same to me."
+  , "난 아무래도 괜찮아."]
+  },
+  "8":{"speaker" : "C", "sentence" :
+  ["Suit yourself."
+  , "당신 편한대로 해"]
+  },
+  "9":{"speaker" : "B", "sentence" :
+  ["Boys, please stay out of trouble and behave yourselves."
+  , "얘들아. 제발 말썽피우지 않고 그리고 얌전히 있어라."]
+  }
+}

@@ -37,9 +37,6 @@ public class DialogActivity extends AppCompatActivity {
     ArrayList<SentenceModel> sentenceList;
     DialogListAdapter adapter;
 
-    private final int numberOfSentence = 6;
-    private boolean[] isOpened;
-
     Button successBtn;
     Button failBtn;
 
@@ -81,9 +78,6 @@ public class DialogActivity extends AppCompatActivity {
 
     private void Init()
     {
-        isOpened = new boolean[numberOfSentence];
-        Arrays.fill(isOpened, false);
-
         successBtn = findViewById(R.id.SuccessBtn);
         failBtn = findViewById(R.id.FailBtn);
 
@@ -105,7 +99,6 @@ public class DialogActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, final View view, int i, long l) {
                 Log.Info("i is : " + i);
 
-                isOpened[i] = true;
                 final TextView engSentence =  view.findViewById(R.id.engSentence);
 
                 if(engSentence.getVisibility() == View.INVISIBLE)
@@ -133,14 +126,6 @@ public class DialogActivity extends AppCompatActivity {
 
                 boolean isAllSentenceOpened = true;
 
-                for(boolean b : isOpened)
-                {
-                    if(b == false)
-                    {
-                        isAllSentenceOpened = false;
-                        break;
-                    }
-                }
 
 //                if(isAllSentenceOpened)
 //                {
@@ -179,7 +164,7 @@ public class DialogActivity extends AppCompatActivity {
         try
         {
             rootObj = new JSONObject(loadJSONFromAsset());
-            for(int i = 1; i <= 6; i++)
+            for(int i = 1; rootObj.has(Integer.toString(i)); i++)
             {
                 JSONObject sentenceData = rootObj.getJSONObject(Integer.toString(i));
                 SentenceModel sentenceModel = new SentenceModel(sentenceData);

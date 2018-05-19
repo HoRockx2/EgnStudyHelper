@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
 //                "CREATE TABLE " + DialogDBContract.DialogEntry.TABLE_NAME + " (" +
 //                        DialogDBContract.DialogEntry._ID + " INTEGER PRIMARY KEY," +
 //                        DialogDBContract.DialogEntry.COLUMN_NAME_FILE_NAME + " TEXT," +
-////                    DialogDBContract.DialogEntry.COLUMN_NAME_DIALOG + " TEXT," +
 //                        DialogDBContract.DialogEntry.COLUMN_NAME_DAILY_CHECK_DAY + " TEXT," +
 //                        DialogDBContract.DialogEntry.COLUMN_NAME_IS_FAIL +" TEXT)";
 //
@@ -51,18 +50,10 @@ public class MainActivity extends AppCompatActivity {
                 String[] step2 = step1[0].split("_");
                 int id = Integer.parseInt(step2[1]);
 
-//                String dialog = DialogManager.GetDialogJsonFromFile(this, fileName);
-//                dialog = dialog.replace("\r", "");
-//                dialog = dialog.replace("\n", "");
-//                dialog = dialog.replace("\t", "");
-
                 String insertSql = "insert into " + DialogDBContract.DialogEntry.TABLE_NAME
                          + " values(" + id + ",'" + fileName + "','','" + DialogDBContract.DialogEntry.IS_FAIL_FALSE + "');";
                 db.execSQL(insertSql);
             }
-
-
-
         }
 
     }
